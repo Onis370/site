@@ -122,7 +122,7 @@
       "name": "Stark’s SmashChickenburger",
       "price": "10,99 €",
       "ingredients": "Chickenpatty, gebratene Zwiebeln, Paprika, Doppel Käse, Hause Sauce, Sweet Chili Sauce",
-      "image": "/burgerfotos/Stark_Chicken_Smash_Burger.JPG"
+      "image": "/burgerfotos/Starks_Chicken_Smash_Burger.JPG"
     }
   ],
   "veggieBurgers": [
@@ -142,7 +142,7 @@
       "name": "Stark’s Veggieburger",
       "price": "9,49 €",
       "ingredients": "Salat, Tomate, Zwiebeln, Gurken, Jalapenos, Guacamole, Hause Sauce",
-      "image": "/burgerfotos/Starks_Veggie_Burger.JPG"
+      "image": "/burgerfotos/Starks_Viggie_Burger.JPG"
     }
   ],
   "curryWurst": [
