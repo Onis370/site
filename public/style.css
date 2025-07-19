@@ -35,6 +35,7 @@ header {
   padding: 0.6rem 1rem;
   background: #922b1d;
   border-radius: 8px;
+  border: solid 1px black;
   cursor: pointer;
   font-size: 1rem;
   transition: background 0.3s;

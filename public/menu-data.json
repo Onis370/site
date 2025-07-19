@@ -40,13 +40,13 @@
       "name": "Guacamole Burger",
       "price": "11,49 €",
       "ingredients": "160g BeefPatty, Rinder Bacon, Salat, Tomate, Gurken, Zwiebeln, Käse, Guacamole, Hause Sauce",
-      "image": "/burgerfotos/Avocado_Burger.JPG"
+      "image": "/burgerfotos/Guacamole_Burger.JPG"
     },
     {
       "name": "Avocado Burger",
       "price": "12,99 €",
       "ingredients": "160g BeefPatty, Rinder Bacon, Salat, Tomate, Gurken, Zwiebeln, Käse, Hause Sauce",
-      "image": "/burgerfotos/Guacamole_Burger.JPG"
+      "image": "/burgerfotos/Avocado_Burger.JPG"
     },
     {
       "name": "EggBurger",
@@ -173,5 +173,53 @@
     { "name": "Trüffel Fries", "price": "6,99 €", "image": "/burgerfotos/Truffle_Fries.JPG" },
     { "name": "Onion Rings", "price": "4,49 €", "image": "/burgerfotos/Onion_Rings.JPG" },
     { "name": "Mozzarella Sticks", "price": "5,99 €", "image": "/burgerfotos/Mozzarella_Sticks.JPG" }
+  ],
+
+  "extras": [
+    { "name": "160g BeefPatty", "price": "3,50 €" },
+    { "name": "Bacon", "price": "1,50 €" },
+    { "name": "Guacamole", "price": "1,50 €" },
+    { "name": "Cheese", "price": "1,00 €" },
+    { "name": "Jalapenos", "price": "1,00 €" },
+    { "name": "Avocado", "price": "1,50 €" },
+    { "name": "Rucola", "price": "1,00 €" },
+    { "name": "Mushrooms", "price": "1,50 €" },
+    { "name": "Caramelized Onions", "price": "1,50 €" }
+  ],
+  "salads": [
+    { "name": "Coleslaw", "price": "3,99 €", "image": "burgerfotos/Coslow.JPG" },
+    {
+      "name": "Ceaser Salat",
+      "price": "9,99 €",
+      "ingredients": "mit Chicken, Tomaten, Parmesan, Croutons, Paprika, Gurken, und Dressing"
+    }
+  ],
+  "sauces": [
+    { "name": "Ketchup", "price": "0,50 €" },
+    { "name": "Mayonnaise", "price": "0,50 €" },
+    { "name": "Sour Cream", "price": "1,00 €" },
+    { "name": "Basil Sauce", "price": "1,50 €" },
+    { "name": "Chili Sauce", "price": "1,00 €" },
+    { "name": "Chipotle Sauce", "price": "1,50 €" },
+    { "name": "Trüffel Sauce", "price": "2,00 €" },
+    { "name": "Garlic Sauce", "price": "2,00 €" },
+    { "name": "Hause Sauce", "price": "2,00 €" }
+  ],
+  "drinks": [
+    { "name": "Coca Cola", "price": "2,80 €" },
+    { "name": "Coca Cola Zero", "price": "2,80 €" },
+    { "name": "Mezzo Mix", "price": "2,80 €" },
+    { "name": "Fanta", "price": "2,80 €" },
+    { "name": "Sprit", "price": "2,80 €" },
+    { "name": "Spezi", "price": "2,80 €" },
+    { "name": "Ice Tea Peach", "price": "2,80 €" },
+    { "name": "Ice Tea Blueberry", "price": "2,80 €" },
+    { "name": "Red Bull", "price": "2,80 €" },
+    { "name": "Red Bull Sugar Free", "price": "2,80 €" }
+  ],
+  "desserts": [
+    { "name": "Cheesecake", "price": "3,50 €" },
+    { "name": "Blueberry Muffin", "price": "2,99 €" },
+    { "name": "Chocolate Muffin", "price": "2,99 €" }
   ]
 }
