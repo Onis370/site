@@ -1,21 +1,24 @@
 {
   "name": "site",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "dependencies": {
-    "express": "^5.1.0",
-    "open": "^10.1.2",
-    "react": "^19.1.0",
-    "react-dom": "^19.1.0",
-    "scheduler": "^0.26.0"
-  },
+  "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
+  },
+  "type": "commonjs",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Onis370/site.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs"
+  "bugs": {
+    "url": "https://github.com/Onis370/site/issues"
+  },
+  "homepage": "https://github.com/Onis370/site#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
 }

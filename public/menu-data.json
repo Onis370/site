@@ -1,0 +1,230 @@
+{
+  "beefBurgers": [
+    {
+      "name": "Hamburger",
+      "price": "8,99 €",
+      "ingredients": "160g Beefpatty, Salat, Tomate, Gurken, Zwiebeln, Hause Sauce",
+      "image": "burgerfotos/Hamburger.JPG"
+    },
+    {
+      "name": "Cheeseburger",
+      "price": "9,99 €",
+      "ingredients": "160g BeefPatty, Salat, Tomaten, Gurken, Zwiebeln, Käse, Hause Sauce",
+      "image": "burgerfotos/Cheese Burger.JPG"
+    },
+    {
+      "name": "Stark’s SmashBurger",
+      "price": "10,49 €",
+      "ingredients": "160g BeefPatty, Zwiebeln, Gurken, Doppel Käse, Hause Sauce",
+      "image": "burgerfotos/Stark’s Smash Burger.JPG"
+    },  
+    {
+      "name": "Spicyburger (scharf)",
+      "price": "11,00 €",
+      "ingredients": "160g BeefPatty, Salat, Grill-Zwiebeln, Gurken, Tomate, Käse, Jalapenos, Chili Sauce",
+      "image": "burgerfotos/Spicy Burger.JPG"
+    },
+    {
+      "name": "Stark’s Burger",
+      "price": "13,99 €",
+      "ingredients": "160g BeefPatty, Rinder Bacon, Salat, Tomate, gebratene Zwiebeln, Avocado, Mozzarella Sticks, Doppel Käse, Hause Sauce",
+      "image": "burgerfotos/Stark’s Burger.JPG"
+    },
+    {
+      "name": "Chipotle Burger",
+      "price": "11,99 €",
+      "ingredients": "160g BeefPatty, Rinder Bacon, Salat, Tomate, Gurken, Zwiebeln, Käse, Avocado, Jalapenos, Chipotle Sauce",
+      "image": "burgerfotos/Chipotl Burget.JPG"
+    },
+    {
+      "name": "Guacamole Burger",
+      "price": "11,49 €",
+      "ingredients": "160g BeefPatty, Rinder Bacon, Salat, Tomate, Gurken, Zwiebeln, Käse, Guacamole, Hause Sauce",
+      "image": "burgerfotos/Avocado Burger.JPG"
+    },
+    {
+      "name": "Avocado Burger",
+      "price": "12,99 €",
+      "ingredients": "160g BeefPatty, Rinder Bacon, Salat, Tomate, Gurken, Zwiebeln, Käse, Hause Sauce",
+      "image": "burgerfotos/Gaukomole Burger.JPG"
+    },
+    {
+      "name": "EggBurger",
+      "price": "11,49 €",
+      "ingredients": "160g BeefPatty, Ei, Rinder Bacon, Salat, Tomate, Gurken, gebratene Zwiebeln, Käse, Röstzwiebeln, Hause Sauce",
+      "image": "burgerfotos/Egg Burger.JPG"
+    },
+    {
+      "name": "Stark’s Spezial (Cheese Sauce)",
+      "price": "12,99 €",
+      "ingredients": "160g BeefPatty, Salat, Tomate, Zwiebeln, Käse, Cheese Sauce",
+      "image": "burgerfotos/Stark’s Burger Spizial.JPG"
+    },
+    {
+      "name": "Brooklyn Burger",
+      "price": "11,99 €",
+      "ingredients": "160g BeefPatty, Salat, Tomate, Zwiebeln, Käse, Gurke, karamellisierte Zwiebeln, Hause Sauce",
+      "image": "burgerfotos/Brooklyn Burger.JPG"
+    },
+    {
+      "name": "BBQ BaconBurger",
+      "price": "12,99 €",
+      "ingredients": "160g BeefPatty, Salat, Tomate, Gurken, Zwiebeln, Käse, Röstzwiebeln, Bacon, Mustard Sauce, BBQ Sauce",
+      "image": "burgerfotos/BBQ Becon Burger.JPG"
+    },
+    {
+      "name": "Onion Burger",
+      "price": "14,49 €",
+      "ingredients": "160g BeefPatty, karamellisierte Zwiebeln, Onion Rings, Doppel Weißkäse, gebratene Zwiebeln, BBQ Sauce, Chipotle Sauce",
+      "image": "burgerfotos/Onion Burger.JPG"
+    },
+    {
+      "name": "Trüffel Burger",
+      "price": "15,99 €",
+      "ingredients": "160g BeefPatty, Trüffel, Salat, gebratene Zwiebeln, Champignons, Hause Sauce",
+      "image": "burgerfotos/IMG_0774.JPG"
+    }
+  ],
+  "vegan": [
+    {
+      "name": "Vegan Burger",
+      "price": "11,99 €",
+      "ingredients": "Fried Onion, Tomate, Champignons, Salat, Gurke, Rucola, Hause Vegan Basil Sauce",
+      "image": "burgerfotos/Vegan Burger.JPG"
+    },
+    {
+      "name": "Vegan ChickenBurger",
+      "price": "8,99 €",
+      "ingredients": "Salat, Zwiebel, Tomate, Vegan Cheese, Vegan Hause Sauce",
+      "image": "burgerfotos/Vegan Chicken .JPG"
+    }
+  ],
+  "chickenBurgers": [
+    {
+      "name": "Chickenburger",
+      "price": "8,49 €",
+      "ingredients": "Chickenpatty, Salat, Krautsalat, Tomate, Gurken, Zwiebeln, Käse, Mayonnaise, Hause Sauce",
+      "image": "burgerfotos/IMG_0772.JPG"
+    },
+    {
+      "name": "Spicy Chicken Burger",
+      "price": "8,99 €",
+      "ingredients": "Chickenpatty, Salat, Tomate, Gurken, Zwiebeln, Käse, Jalapenos, Chili Sauce",
+      "image": "burgerfotos/Spicy Chicken .JPG"
+    },
+    {
+      "name": "BBQ Chickenburger",
+      "price": "10,99 €",
+      "ingredients": "Chickenpatty, Salat, Tomate, Gurken, Zwiebeln, Bacon, Käse, Röstzwiebeln, BBQ Hause Sauce",
+      "image": "burgerfotos/BBQ Chicken Burget.JPG"
+    },
+    {
+      "name": "Stark’s SmashChickenburger",
+      "price": "10,99 €",
+      "ingredients": "Chickenpatty, gebratene Zwiebeln, Paprika, Doppel Käse, Hause Sauce, Sweet Chili Sauce",
+      "image": "burgerfotos/Stark Chicken Smash burger.JPG"
+    }
+  ],
+  "veggieBurgers": [
+    {
+      "name": "Veggie Burger",
+      "price": "8,49 €",
+      "ingredients": "Salat, Tomate, Zwiebeln, Gurken, Rucola, Avocado, Hause Basil Sauce",
+      "image": "burgerfotos/Viggie Burger.JPG"
+    },
+    {
+      "name": "BBQ Veggieburger",
+      "price": "7,99 €",
+      "ingredients": "Salat, Tomate, Zwiebeln, Gurken, BBQ Hause Sauce", 
+      "image": "burgerfotos/BBQ Viggie.JPG"
+    },
+    {
+      "name": "Stark’s Veggieburger",
+      "price": "9,49 €",
+      "ingredients": "Salat, Tomate, Zwiebeln, Gurken, Jalapenos, Guacamole, Hause Sauce",
+      "image": "burgerfotos/Stark’s Viggie burger.JPG"
+    }
+  ],
+  "curryWurst": [
+    {
+      "name": "Classic Wurst",
+      "price": "6,49 €",
+      "ingredients": "Wurst, Kurkuma, Curry Sauce",
+      "image": "burgerfotos/Classic Curry Wurst.JPG"
+    },
+    {
+      "name": "Hot Chilli Wurst",
+      "price": "7,49 €",
+      "ingredients": "Wurst, Kurkuma, Hot Sauce",
+      "image": "burgerfotos/photo_2025-07-12_22-03-28.JPG"
+    },
+    {
+      "name": "Stark’s Wurst",
+      "price": "9,99 €",
+      "ingredients": "Wurst, Jalapeno, Rote Pfeffer, Sweet Chili Sauce",
+      "image": "burgerfotos/Stark’s Curry Wurst.JPG"
+    }
+  ],
+  "beilagen": [
+    { "name": "Fries", "price": "3,99 €", "image": "burgerfotos/Freis.JPG" },
+    { "name": "Sweet Fries", "price": "4,49 €", "image": "burgerfotos/Sweet Freis.JPG" },
+    { "name": "Chili Cheese Fries", "price": "5,49 €", "image": "burgerfotos/Chilli Cheese Freis.JPG" },
+    { "name": "Sweet Chili Fries", "price": "4,99 €", "image": "burgerfotos/IMG_0773.JPG" },
+    { "name": "Trüffel Fries", "price": "6,99 €", "image": "burgerfotos/Parmesan Trüffel.JPG"},
+    { "name": "Chicken Nuggets (8 Stück)", "price": "6,99 €", "image": "burgerfotos/Chicken nuggets .JPG" },
+    { "name": "Mozzarella Sticks (7 Stück)", "price": "5,99 €", "image": "burgerfotos/Mozzarella Stick.JPG" },
+    { "name": "Onion Rings (9 Stück)", "price": "6,49 €", "image": "burgerfotos/Onion .JPG" },
+    { "name": "Chicken Strips (7 Stück)", "price": "6,99 €" },
+    { "name": "Chicken Wings (9 Stück)", "price": "8,49 €" },
+    { "name": "French Fries", "price": "3,49 €" },
+    { "name": "Cheese Fries", "price": "4,99 €" },
+    { "name": "Bacon Cheese Fries", "price": "5,99 €" }
+  ],
+  "extras": [
+    { "name": "160g BeefPatty", "price": "3,50 €" },
+    { "name": "Bacon", "price": "1,50 €" },
+    { "name": "Guacamole", "price": "1,50 €" },
+    { "name": "Cheese", "price": "1,00 €" },
+    { "name": "Jalapenos", "price": "1,00 €" },
+    { "name": "Avocado", "price": "1,50 €" },
+    { "name": "Rucola", "price": "1,00 €" },
+    { "name": "Mushrooms", "price": "1,50 €" },
+    { "name": "Caramelized Onions", "price": "1,50 €" }
+  ],
+  "salads": [
+    { "name": "Coleslaw", "price": "3,99 €", "image": "burgerfotos/Coslow.JPG" },
+    {
+      "name": "Ceaser Salat",
+      "price": "9,99 €",
+      "ingredients": "mit Chicken, Tomaten, Parmesan, Croutons, Paprika, Gurken, und Dressing"
+    }
+  ],
+  "sauces": [
+    { "name": "Ketchup", "price": "0,50 €" },
+    { "name": "Mayonnaise", "price": "0,50 €" },
+    { "name": "Sour Cream", "price": "1,00 €" },
+    { "name": "Basil Sauce", "price": "1,50 €" },
+    { "name": "Chili Sauce", "price": "1,00 €" },
+    { "name": "Chipotle Sauce", "price": "1,50 €" },
+    { "name": "Trüffel Sauce", "price": "2,00 €" },
+    { "name": "Garlic Sauce", "price": "2,00 €" },
+    { "name": "Hause Sauce", "price": "2,00 €" }
+  ],
+  "drinks": [
+    { "name": "Coca Cola", "price": "2,80 €" },
+    { "name": "Coca Cola Zero", "price": "2,80 €" },
+    { "name": "Mezzo Mix", "price": "2,80 €" },
+    { "name": "Fanta", "price": "2,80 €" },
+    { "name": "Sprit", "price": "2,80 €" },
+    { "name": "Spezi", "price": "2,80 €" },
+    { "name": "Ice Tea Peach", "price": "2,80 €" },
+    { "name": "Ice Tea Blueberry", "price": "2,80 €" },
+    { "name": "Red Bull", "price": "2,80 €" },
+    { "name": "Red Bull Sugar Free", "price": "2,80 €" }
+  ],
+  "desserts": [
+    { "name": "Cheesecake", "price": "3,50 €" },
+    { "name": "Blueberry Muffin", "price": "2,99 €" },
+    { "name": "Chocolate Muffin", "price": "2,99 €" }
+  ]
+}

@@ -1,0 +1,108 @@
+<html lang="de">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Stark’s Burger</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+<header>
+  <div class="buttons">
+    <div class="menu-toggle" onclick="toggleMenu('menu')">Menü</div>
+    <div class="menu-toggle" onclick="toggleMap('map')">Standort</div>
+  </div>
+
+  <div class="site-title">Stark’s Burger</div>
+
+  <div class="logo-container">
+    <img src="burgerfotos/photo_2025-07-18_00-37-36.jpg" alt="Logo" class="logo-image">
+  </div>
+</header>
+
+  <main class="menu-sections" id="menu-sections">
+    <section id="beef-burgers">
+      <h2>Beef Burgers</h2>
+      <div class="grid" id="beef-container"></div>
+    </section>
+
+    <section id="vegan-burgers">
+      <h2>VEGAN Burgers</h2>
+      <div class="grid" id="vegan-container"></div>
+    </section>
+
+    <section id="chicken-burgers">
+      <h2>Chicken Burgers</h2>
+      <div class="grid" id="chicken-container"></div>
+    </section>
+
+    <section id="veggie-burgers">
+      <h2>Veggie Burgers</h2>
+      <div class="grid" id="veggie-container"></div>
+    </section>
+
+    <section id="currywurst">
+      <h2>Curry Wurst</h2>
+      <div class="grid" id="wurst-container"></div>
+    </section>
+
+    <section id="sides">
+      <h2>Beilagen</h2>
+      <div class="grid" id="sides-container"></div>
+    </section>
+
+    <section id="extras">
+      <h2>Extras</h2>
+      <div class="grid" id="extras-container"></div>
+    </section>
+
+    <section id="salads">
+      <h2>Salate</h2>
+      <div class="grid" id="salads-container"></div>
+    </section>
+
+    <section id="sauces">
+      <h2>Saucen</h2>
+      <div class="grid" id="sauces-container"></div>
+    </section>
+
+    <section id="drinks">
+      <h2>Getränke</h2>
+      <div class="grid" id="drinks-container"></div>
+    </section>
+
+    <section id="desserts">
+      <h2>Desserts</h2>
+      <div class="grid" id="desserts-container"></div>
+    </section>
+  </main>
+
+  <section id="map-section" style="padding: 2rem; text-align: center;">
+  <div class="unserstandort">Unser Standort</div>
+  <div style="width: 100%; max-width: 600px; margin: 0 auto;">
+    <iframe
+      src="https://www.google.com/maps?q=Moosstraße%2018%20Starnberg&output=embed"
+      width="100%"
+      height="350"
+      style="border:0; border-radius: 16px;"
+      allowfullscreen=""
+      loading="lazy"
+      referrerpolicy="no-referrer-when-downgrade"
+    ></iframe>
+    <br><br>
+    <a
+      href="https://maps.apple.com/place?address=Moosstra%C3%9Fe%2018,%2082319%20Starnberg,%20Deutschland&coordinate=48.003171,11.352190&name=Moosstra%C3%9Fe%2018&map=h"
+      target="_blank"
+      style="display: inline-block; padding: 10px 20px; background: #000; color: #fff; border-radius: 8px; text-decoration: none;"
+    >
+      Auf Karte öffnen
+    </a>
+  </div>
+</section>
+
+  <footer>
+    <p>&copy; 2025 Stark’s Burger. Inhaber: Daniel.</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
