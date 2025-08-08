@@ -1,2 +1,4 @@
 User-agent: *
 Allow: /
+
+Sitemap: https://starks-burger-18hu.onrender.com/sitemap.xml
