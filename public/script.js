@@ -9,7 +9,7 @@ function toggleMenu() {
 
 // Функция показа карты и скрытия меню
 function toggleMap() {
-  const map = document.getElementById('map-section');
+  const map = document.getElementById('about-and-location'); // правильный id секции с картой
   const menu = document.getElementById('menu-sections');
 
   map.classList.add('show');     // показываем карту
